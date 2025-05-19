@@ -56,7 +56,7 @@ def salvesta_nägu():
 
 
 pygame.mixer.init()
-pygame.mixer.music.load("Betsy, Ely Oaks & Levinia - Sigma Boy (Lyrics) [Letra].mp3")
+pygame.mixer.music.load("ТАЙМЕР - Мелодия мобилы Коляна (Реальные пацаны).mp3")
 
 app = ctk.CTk()
 app.geometry("800x500")
@@ -68,10 +68,10 @@ canvas.pack(side="right", padx=10, pady=10)
 toggle_osa("nägu", "alus.png", 200, 200)
 olemas["nägu"] = True
 
-toggle_osa("silmad", silmad_pildid[0], 200, 200)
+toggle_osa("silmad", silmad_pildid[0], 200, 400)
 olemas["silmad"] = True
 
-toggle_osa("nina", nina_pildid[0], 200, 200)
+toggle_osa("nina", nina_pildid[0], 200, 300)
 olemas["nina"] = True
 
 toggle_osa("suu", suu_pildid[0], 200, 200)

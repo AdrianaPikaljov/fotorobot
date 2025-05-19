@@ -41,6 +41,7 @@
     <Content Include="suu4.png" />
     <Content Include="suu5.png" />
     <Content Include="suu6.png" />
+    <Content Include="ТАЙМЕР - Мелодия мобилы Коляна %28Реальные пацаны%29.mp3" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
